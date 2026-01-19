@@ -3,7 +3,7 @@ import Navbar from "./Navbar";
 
 const Pageone = () => {
   return (
-    <div className="">
+    <div className="w-full  overflow-x-hidden">
       <Navbar />
       <HeroSection />
     </div>
