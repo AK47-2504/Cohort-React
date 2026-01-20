@@ -4,7 +4,7 @@ const ImageCard = (props) => {
   return (
     <div
       className="w-full
-            lg:w-[45vw]
+            lg:w-[45vw] 
           sm:w-[full] h-[62vh] overflow-hidden
             p-6 sm:p-8 lg:p-10
             rounded-xl "

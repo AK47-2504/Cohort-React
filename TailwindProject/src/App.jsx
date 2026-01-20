@@ -1,5 +1,6 @@
 import Bigcard from "./components/Bigcard";
 import Card from "./components/Card";
+import Footer from "./components/Footer";
 import ImageCard from "./components/ImageCard";
 import Number from "./components/NUmber";
 import Pageone from "./components/Pageone";
@@ -26,8 +27,7 @@ const App = () => {
         
       </div>
       <RectCard />
-      <RectCard />
-      <RectCard />
+      <Footer />
     </div>
   );
 };

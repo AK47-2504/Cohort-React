@@ -25,7 +25,7 @@ const HeroSection = () => {
           <h1
             className="
               font-[poppins] uppercase tracking-wider
-              text-3xl sm:text-5xl md:text-7xl lg:text-9xl
+              text-5xl sm:text-5xl md:text-7xl lg:text-9xl
               w-full md:w-3/4 lg:w-1/2
             "
           >
